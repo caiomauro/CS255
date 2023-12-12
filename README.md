@@ -5,7 +5,7 @@
 - **Client:** DriverPass
 - **Objective:** Address the issue of subpar driving education, with a focus on lowering the 65% failure rate in driving tests. The project aimed to provide better driver training through online courses and live instruction.
 
-**Strengths in Project Execution:**
+**Strengths:**
 
 Throughout the course, I did a good job in analyzing the systems and visually representing concepts and functions. The diagrams, including classes, activities, sequences, and data flow, brought clarity to the project and gave me a deeper understanding of how applications actually work. 
 
